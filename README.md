@@ -1,5 +1,6 @@
-# React Context | Part 2
+# React Context 
 
 - Context Provider
-  - Where to Write?
+  
 - Context Flow
+![Uploading image.png…]()
